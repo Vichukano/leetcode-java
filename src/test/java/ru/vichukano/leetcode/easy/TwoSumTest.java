@@ -1,7 +1,8 @@
-package ru.vichukano.leetcode;
+package ru.vichukano.leetcode.easy;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import ru.vichukano.leetcode.easy.TwoSum;
 
 class TwoSumTest {
 

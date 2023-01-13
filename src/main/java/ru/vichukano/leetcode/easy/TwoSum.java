@@ -1,4 +1,4 @@
-package ru.vichukano.leetcode;
+package ru.vichukano.leetcode.easy;
 
 
 /**
