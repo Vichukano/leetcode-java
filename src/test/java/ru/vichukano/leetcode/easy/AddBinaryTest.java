@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 class AddBinaryTest {
 
     @Test
-    void test() {
+    void shouldAddBinary() {
         var testTarget = new AddBinary();
         Assertions.assertEquals("111", testTarget.addBinary("110", "1"));
     }
